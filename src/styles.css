@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    
+     /* background-image: url(E:\Development\Angular\CALCULATOR-APP\src\assets\bg4.jpg); */
+     /* background-repeat: no-repeat;  */
+     /* background-color: black; */
+     background-size: cover;
+     margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: rgba(6, 45, 56, 0.363);
+    /* 110, 163, 177, 0.178) */
+}
